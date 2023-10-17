@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fmMu3sXzGZH672QVum0uAetzhdRwCM0pLiVr8xs8BLIgT4Lf3k4Fa3aBissDuNkXxzpCpATXznIgb1i3gIQA7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\murat\\OneDrive\\Masaüstü\\Yeni klasör\\AES\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\murat\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\murat\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\murat\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\murat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
